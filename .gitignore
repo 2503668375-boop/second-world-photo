@@ -1,0 +1,15 @@
+# 本机元数据
+.DS_Store
+._*
+
+# 缓存及本地环境
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+
+# 私人素材、生成结果和临时文件
+private/
+outputs/
+tmp/
